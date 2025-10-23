@@ -1,0 +1,5 @@
+# Ignore anything unnecessary
+*.tf
+*.tfstate*
+.terraform/
+
